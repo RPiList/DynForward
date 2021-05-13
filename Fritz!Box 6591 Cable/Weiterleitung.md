@@ -13,4 +13,4 @@ Im PopUp-Fenster werden jetzt unter Anwendung "Andere Anwendung" ausgewählt und
 
 ![forward3](https://user-images.githubusercontent.com/56664851/118195326-4ea64b00-b44b-11eb-8155-bf759d73bf00.PNG)
 
-ACHTUNG! Danach landet man wieder auf den oberen Ebenen der Fritzbox und muss auch hier noch mal OK und "Übernehmen" klicken. Erst dann wird die Weiterleitung eingerichtet. Danach mit STRG+R den Browser neu laden lassen und dann sollte die Weiterleitung mit grünen Lichtern erscheinen. Okay.
+ACHTUNG! Danach landet man wieder auf den oberen Ebenen der Fritzbox und muss auch hier noch mal OK und "Übernehmen" klicken. Erst dann wird die Weiterleitung eingerichtet. Danach mit STRG+R den Browser neu laden lassen und dann sollte die Weiterleitung mit grünen Lichtern (s.o., erster Screenshot) erscheinen. Okay.
