@@ -18,3 +18,5 @@
 8. Als To Address die IP des VPN-Server einstellen
 9. Bei To Ports 51820 reinschreiben
 10. Auf Apply oder OK klicken
+  
+[Eine andere Anleitung wie man Portfreigaben hinzufügt: https://mikrotik-blog.de/mikrotik-port-forwarding-portweiterleitung-anleitung-tutorial/](https://mikrotik-blog.de/mikrotik-port-forwarding-portweiterleitung-anleitung-tutorial/)
